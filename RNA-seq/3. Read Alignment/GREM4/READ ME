@@ -1,0 +1,3 @@
+There are two 'align' files here because I accidentally wrote the 'STAR_align_all_try4' code in such a way that it never read in my final sample - '56_1'.
+For this reason, I ran a second script which simply ran on sample '56_1' - 'STAR_align_A56_1_try1'.
+This problem was not had for PN because I rectified it by then.
