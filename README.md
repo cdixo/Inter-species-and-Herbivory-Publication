@@ -9,6 +9,8 @@ This code is currently made available for review only by article reviewers.  Aft
 become available for use by any and all individuals which may find it useful in their own work.  We ask that you 
 please cite this publication (TBD ___) if using the code for your work.
 
+Pipelines can be found in the supplementals of the manuscript.
+
 Thank you very much, and happy coding,
 
 Cullen W. Dixon and the Gschwend Grapevine Genetics Laboratory
