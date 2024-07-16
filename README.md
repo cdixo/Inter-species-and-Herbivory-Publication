@@ -1,15 +1,18 @@
 # Inter-species-and-Herbivory-Publication
 
-This repository is an online location to store in perpetuity all of the code related to Cullen W. Dixon's
-and the Gschwend Grapevine Genetics Laboratory's V. labrusca acc. ‘GREM4’ and V. vinifera cv. ‘PN40024’ 
-Japanese beetle insect herbivory resistance work for the research publication which explores inter-species
-transcriptomic comparisons as well as all of the herbivory experiments conducted during Cullen W. Dixon’s PhD.
+This repository is an online location to store in perpetuity all of the code related to the manuscript 
+"Trichomes and Unique Gene Expression Confer Insect Herbivory Resistance in Vitis labrusca Grapevines"
+((https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-024-05260-9)) by Dixon & Gschwend from
+the Gschwend Grapevine Genetics Laboratory in 2024.  This manuscript covers the response to insect herbivory
+by Japanese beetles by V. labrusca acc. ‘GREM4’ and V. vinifera cv. ‘PN40024’ and differences found
+between them.  This includes herbivory studies, trichome density observations and feeding studies, and 
+comparative transcriptomic analyses.  
 
-This code is currently made available for review only by article reviewers.  After publication, this code will
-become available for use by any and all individuals which may find it useful in their own work.  We ask that you 
-please cite this publication (TBD ___) if using the code for your work.
+We would be pleased if you use the code found within this repository for your own work, we simply ask 
+that you cite the manuscript in your publication if so.  Pipelines can be found in the supplementals of 
+the manuscript.  If you wish to use the datasets themselves found within this repository, please reach 
+out to gschwend.2@osu.edu for further information.
 
-Pipelines can be found in the supplementals of the manuscript.
 
 Thank you very much, and happy coding,
 
