@@ -2,7 +2,7 @@
 
 This repository is an online location to store in perpetuity all of the code related to the manuscript 
 "Trichomes and Unique Gene Expression Confer Insect Herbivory Resistance in Vitis labrusca Grapevines"
-((https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-024-05260-9)) by Dixon & Gschwend from
+https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-024-05260-9 by Dixon & Gschwend from
 the Gschwend Grapevine Genetics Laboratory in 2024.  This manuscript covers the response to insect herbivory
 by Japanese beetles by V. labrusca acc. ‘GREM4’ and V. vinifera cv. ‘PN40024’ and differences found
 between them.  This includes herbivory studies, trichome density observations and feeding studies, and 
